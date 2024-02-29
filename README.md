@@ -26,4 +26,6 @@ This project implements a classic Snake Game using the Pygame library in Python.
   python snake_game.py
 
 ## License
-This project is licensed under the MIT License. Copyright (c) 2024 Brian Rono.
+This project is licensed under the MIT License. Copyright (c) 2024 Brian Rono
+# simple-snake-game
+
